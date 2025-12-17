@@ -1,0 +1,122 @@
+[
+  {
+    "id": "CHR-001",
+    "name": "Alex Mason",
+    "description": "A CIA operative and former Marine Captain who served in the Cold War.",
+    "age": 45,
+    "isActive": false,
+    "birthDate": "1933-06-03",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Alex_Mason.png",
+    "rank": "Captain",
+    "weapons": ["M16", "Colt Python"],
+    "unit": { "id": "EMB-09", "name": "Iron Division", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Iron.png", "isElite": false, "motto": "Strength and Honor." }
+  },
+  {
+    "id": "CHR-002",
+    "name": "Captain Price",
+    "description": "The legendary leader of Bravo Team and Task Force 141.",
+    "age": 42,
+    "isActive": true,
+    "birthDate": "1981-11-01",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Captain_Price.png",
+    "rank": "Captain",
+    "weapons": ["M4A1", "M1911"],
+    "unit": { "id": "EMB-04", "name": "Bravo Team", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Bravo.png", "isElite": true, "motto": "Check your corners." }
+  },
+  {
+    "id": "CHR-003",
+    "name": "Frank Woods",
+    "description": "Hard-nosed Marine and CIA SAD/SOG operative.",
+    "age": 51,
+    "isActive": false,
+    "birthDate": "1930-03-20",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Frank_Woods.png",
+    "rank": "Sergeant",
+    "weapons": ["M60", "Commando"],
+    "unit": { "id": "EMB-05", "name": "Ironclad", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Ironclad.png", "isElite": false, "motto": "Unbreakable shield." }
+  },
+  {
+    "id": "CHR-004",
+    "name": "Gaz",
+    "description": "Kyle 'Gaz' Garrick is a key member of the SAS.",
+    "age": 32,
+    "isActive": true,
+    "birthDate": "1992-04-12",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Gaz.png",
+    "rank": "Sergeant",
+    "weapons": ["P90", "M1911"],
+    "unit": { "id": "EMB-03", "name": "SAS", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/SAS.png", "isElite": true, "motto": "Who Dares Wins" }
+  },
+  {
+    "id": "CHR-005",
+    "name": "Logan Walker",
+    "description": "Member of the Ghosts, son of Elias Walker.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "1999-12-10",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Logan_Walker.png",
+    "rank": "Lieutenant",
+    "weapons": ["Honey Badger", "M9A1"],
+    "unit": { "id": "EMB-08", "name": "Eagle Squad", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/eagle.png", "isElite": true, "motto": "Death from above." }
+  },
+  {
+    "id": "CHR-006",
+    "name": "Makarov",
+    "description": "Vladimir Makarov, leader of a Russian Ultranationalist cell.",
+    "age": 41,
+    "isActive": false,
+    "birthDate": "1970-10-04",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Makarov.png",
+    "rank": "Lieutenant",
+    "weapons": ["Desert Eagle", "P90"],
+    "unit": { "id": "EMB-06", "name": "Shadow Syndicate", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Shadow_Syndicat.png", "isElite": false, "motto": "Control from the dark." }
+  },
+  {
+    "id": "CHR-007",
+    "name": "Nikolai",
+    "description": "The code name of Price's informant and pilot.",
+    "age": 44,
+    "isActive": true,
+    "birthDate": "1979-02-15",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Nikolai.png",
+    "rank": "Captain",
+    "weapons": ["AK-74U", "RPG-7"],
+    "unit": { "id": "EMB-01", "name": "Task Force 141", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/ghost.png", "isElite": true, "motto": "We get our hands dirty." }
+  },
+  {
+    "id": "CHR-008",
+    "name": "Sergeant Foley",
+    "description": "Leader of the first squad of Hunter Two, 75th Ranger Regiment.",
+    "age": 38,
+    "isActive": true,
+    "birthDate": "1985-05-22",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Sergeant_Foley.png",
+    "rank": "Sergeant",
+    "weapons": ["SCAR-H", "M9"],
+    "unit": { "id": "EMB-02", "name": "Shadow Company", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Shadow.png", "isElite": true, "motto": "No names, no faces." }
+  },
+  {
+    "id": "CHR-009",
+    "name": "Soap MacTavish (Stealth)",
+    "description": "John MacTavish in specialized stealth infiltration gear.",
+    "age": 36,
+    "isActive": true,
+    "birthDate": "1987-08-14",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Soap_MacTavish_(Stealth).png",
+    "rank": "Captain",
+    "weapons": ["MP5SD", "Combat Knife"],
+    "unit": { "id": "EMB-07", "name": "Specter Unit", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Specter.png", "isElite": true, "motto": "Ghost in the machine." }
+  },
+  {
+    "id": "CHR-010",
+    "name": "Soap MacTavish",
+    "description": "Main protagonist of the Modern Warfare series.",
+    "age": 36,
+    "isActive": true,
+    "birthDate": "1987-08-14",
+    "imageUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/characters/Soap_MacTavish.png",
+    "rank": "Captain",
+    "weapons": ["M4A1", "USP .45"],
+    "unit": { "id": "EMB-01", "name": "Task Force 141", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/ghost.png", "isElite": true, "motto": "We get our hands dirty." }
+  }
+]
