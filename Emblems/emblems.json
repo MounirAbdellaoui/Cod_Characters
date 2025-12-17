@@ -1,1 +1,12 @@
+[
+  { "id": "EMB-01", "name": "Task Force 141", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/ghost.png", "isElite": true, "motto": "We get our hands dirty." },
+  { "id": "EMB-02", "name": "Shadow Company", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Shadow.png", "isElite": true, "motto": "No names, no faces." },
+  { "id": "EMB-03", "name": "SAS", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/SAS.png", "isElite": true, "motto": "Who Dares Wins" },
+  { "id": "EMB-04", "name": "Bravo Team", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Bravo.png", "isElite": true, "motto": "Check your corners." },
+  { "id": "EMB-05", "name": "Ironclad", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Ironclad.png", "isElite": false, "motto": "Unbreakable shield." },
+  { "id": "EMB-06", "name": "Shadow Syndicate", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Shadow_Syndicat.png", "isElite": false, "motto": "Control from the dark." },
+  { "id": "EMB-07", "name": "Specter Unit", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Specter.png", "isElite": true, "motto": "Ghost in the machine." },
+  { "id": "EMB-08", "name": "Eagle Squad", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/eagle.png", "isElite": true, "motto": "Death from above." },
+  { "id": "EMB-09", "name": "Iron Division", "emblemUrl": "https://raw.githubusercontent.com/MounirAbdellaoui/Cod_Characters/main/Emblems/Iron.png", "isElite": false, "motto": "Strength and Honor." }
+]
 
